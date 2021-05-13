@@ -7,8 +7,16 @@ public class Test {
 
     }
 
+    public static void demo(){
+        System.out.println("demo method");
+
+    }
+
+
+
     public static void main(String[] args) {
         testMethod();
         System.out.println("Hello world");
     }
+
 }
