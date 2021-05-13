@@ -11,9 +11,6 @@ public class Test {
         System.out.println("demo method");
 
     }
-
-
-
     public static void main(String[] args) {
         testMethod();
         System.out.println("Hello world");
